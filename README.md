@@ -1,4 +1,4 @@
-## Escada Mario Bross
+# Escada Mario Bross 🕹️
 #### Projeto derivado de um desafio para praticar sintaxe e lógica de programação na linguagem C.
 
 ## Sobre o projeto
